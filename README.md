@@ -144,7 +144,7 @@ I wired up the clock signal like so, where the yellow wire ran to an OR gate wit
 ### Final Result:
 The aforementioned steps left me with a final build that looked like this: 
 
-![image](https://user-images.githubusercontent.com/76706672/216792780-45306d84-3bd9-4b3c-9594-d7455c9f68ce.png)
+![349D7ADC-65C7-4B89-866A-406C9B8FD26A_1_201_a](https://user-images.githubusercontent.com/76706672/216792979-f79c2da2-1fc1-41a8-87f2-9e63a462f10d.jpeg)
 
 The colour code here was the same as the drawn one. 
 
